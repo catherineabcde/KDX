@@ -1,0 +1,9 @@
+{
+  "features": {
+    "institutions": {
+      "enabled": true,
+      "source": "twse",
+      "include_in_push": true
+    }
+  }
+}

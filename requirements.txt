@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+requests
+python-dateutil
+fastapi
+uvicorn
+boto3
+botocore
